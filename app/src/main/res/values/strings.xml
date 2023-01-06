@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MEAT PACKING</string>
+    <string name="fg">5 <sub><small>g</small></sub></string>
+    <string name="zg">0 <sub><small>g</small></sub></string>
+    <string name="price">Price</string>
+    <string name="mrp">MRP</string>
+    <string name="plu">PLU</string>
+    <string name="_1">1</string>
+    <string name="_0">₹ 0</string>
+    <string name="_299_0">₹ 299.0</string>
+    <string name="chicken_curry_cut">Chicken Curry Cut</string>
+    <string name="tare">Tare</string>
+    <string name="weight">Weight</string>
+    <string name="toastmsg">Failed to update price list : Login session expired</string>
+</resources>
